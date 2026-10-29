@@ -64,3 +64,7 @@ L'APK est produit dans `app/build/outputs/apk/debug/`.
 | `art/` | Sources HTML de l'icône et de la bannière |
 
 L'adresse du site affiché se change dans la constante `HOME_URL` de `MainActivity`.
+
+## Licence
+
+Distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE).
